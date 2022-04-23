@@ -1,0 +1,15 @@
+git init   *para tomar el directorio
+
+git add segundo.txt
+git commit -m "segundo"
+git brach -M main
+git push -u origin main
+
+
+para bajar archivos y actualizar repo local
+
+
+git fetch 
+git merge
+git pull
+
